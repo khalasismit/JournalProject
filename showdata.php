@@ -18,7 +18,7 @@ if (isset($_GET['delid'])) {
 </head>
 
 <body>
-    <nav class="fixed navbar navbar-expand-lg navbar-dark bg-dark">
+    <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
         <div class="container-fluid">
             <a class="navbar-brand" href="#"><img src="php.svg" height="54px" alt=""> </a>
             <button class="navbar-toggler" type="button" data-bs-toggle="collapse"
